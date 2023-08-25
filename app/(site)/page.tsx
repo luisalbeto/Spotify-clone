@@ -22,7 +22,7 @@ export default async function Home() {
           text-white
             text-3xl
             font-semibold">
-            Welcome black
+            Welcome back
           </h1>
           <div 
             className="
