@@ -13,7 +13,7 @@ import { toast } from "react-hot-toast";
 
 interface HeaderProps {
   children: React.ReactNode;
-  className: string;
+  className?: string;
 }
 
 const Header: React.FC<HeaderProps> = ({
